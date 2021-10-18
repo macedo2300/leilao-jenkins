@@ -1,2 +1,2 @@
 # leilao-jenkins
-Projeto de integração contínua
+Projeto de integração contínua.
